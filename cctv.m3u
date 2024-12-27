@@ -41,7 +41,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="央视频道",鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="PopC" tvg-logo="http://43.136.99.11/popc.png" group-title="央视频道",PopC
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://43.136.99.11/popc.jpg" group-title="央视频道",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="http://43.136.99.11/美亚电影台.png" group-title="央视频道",美亞電影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
