@@ -62,11 +62,11 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台AKTV",鳳凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="PopC" tvg-logo="https://github.com/2025my/myiptv6/blob/main/popc.png" group-title="港澳台AKTV",PopC
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://43.136.99.11/popc.png" group-title="港澳台AKTV",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://github.com/2025my/myiptv6/blob/main/美亚电影台.png" group-title="港澳台AKTV",美亞電影台
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="http://43.136.99.11/美亚电影台.png" group-title="港澳台AKTV",美亞電影台
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://qwtc.cc/share/logo/%E6%98%9F%E8%A6%96%E7%95%8C/Love%20Nature.png" group-title="港澳台AKTV",Love Nature HD
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://43.136.99.11/Love Nature.png" group-title="港澳台AKTV",Love Nature HD
 http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 5 HD.png" group-title="港澳台AKTV",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
