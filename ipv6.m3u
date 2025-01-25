@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz"
 #央视频道
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://183.255.10.72:6610/200000001898/460000089800010011/1.m3u8?IASHttpSessionId=ACE
